@@ -1,5 +1,8 @@
 _repo: The-Irish-Penny-Journal-Vol-1-No-46-May-15-1841_55357
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55357-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55357#The-Irish-Penny-Journal-Vol-1-No-46-May-15-1841
 gutenberg_issued: '2017-08-14'
 gutenberg_type: Text
 identifiers:
